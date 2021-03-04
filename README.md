@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+<br>
+  <img src="./.github/logo.svg" alt="move.it" height="50">
+<br>
+<br>
+Move.it
+</h1>
 
-## Getting Started
+<p align="center">this is an application to measure the hours of work and rest depending on a certain time</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+[//]: # "Add your gifs/images here:"
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div>
+  <img src="./.github/app.png" alt="Web" height="425"> 
+  <!-- <img src="./.github/mobileBethehero.gif" alt="Mobile" height="425"> -->
+</div>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<hr />
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Features
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+[//]: # "Add the features of your project here:"
 
-## Learn More
+This app features all the latest tools and practices in mobile development!
 
-To learn more about Next.js, take a look at the following resources:
+- ⚛️ **Nextjs** — A JavaScript framework ssr
+- ⚛️ **React js** — A JavaScript library for building user interfaces
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Getting started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Getting started with the frontend**
 
-## Deploy on Vercel
+1. Move yourself to the backend folder: `cd moveit-next`
+2. Run `yarn install` to install dependencies
+3. Run `yarn dev` to start server
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
